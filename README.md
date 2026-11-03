@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Username Finder by MR414N-ID" width="100%"/>
+<img src="assets/banner.jpg" alt="Username Finder by MR414N-ID" width="100%"/>
 
 <br/>
 
