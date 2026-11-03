@@ -43,20 +43,18 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/USERNAME_KAMU/NAMA_REPO.git
-cd NAMA_REPO
+git clone https://github.com/MR414N-ID/Username
+cd Username
 pip install -r requirements.txt
 ```
 
 ### Linux / macOS / Windows
 
 ```bash
-git clone https://github.com/USERNAME_KAMU/NAMA_REPO.git
-cd NAMA_REPO
+git clone https://github.com/MR414N-ID/Username
+cd Username
 pip install -r requirements.txt
 ```
-
-> Ganti `USERNAME_KAMU` dan `NAMA_REPO` dengan akun dan nama repo GitHub kamu.
 
 ## 🚀 Cara Pakai
 
@@ -75,7 +73,7 @@ python username.py mayor_tedy
 | Menu | Mode | Keterangan |
 |:---:|---|---|
 | **1** | Cari username langsung | Cek satu username di 500 situs. Hasil otomatis tersimpan ke `hasil_<username>.txt` |
-| **2** | Cari dari nama | Buat variasi username dari nama (+ filter daerah), cek di situs prioritas, lalu pilih kandidat secara manual |
+| **2** | Cari darinamaa | Buat variasi username dari nama (+ filter daerah), cek di situs prioritas, lalu pilih kandidat secara manual |
 | **3** | Gabungan | Nama → kandidat → otomatis cek 500 situs untuk tiap kandidat |
 | **4** | **Massal** | Cari banyak username sekaligus (file txt / input manual) |
 | **q** | Keluar | |
