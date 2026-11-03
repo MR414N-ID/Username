@@ -31,7 +31,7 @@
 ## 🖼️ Tampilan
 
 <div align="center">
-  <img src="assets/preview.svg" alt="Contoh tampilan menu" width="700"/>
+  <img src="assets/preview.jpg" alt="Contoh tampilan menu" width="700"/>
   <br/>
   <sub>Contoh tampilan menu utama</sub>
 </div>
